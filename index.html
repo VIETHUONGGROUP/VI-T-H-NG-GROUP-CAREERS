@@ -152,8 +152,39 @@
       </div>
     </section>
 
+    <section class="section apply" id="apply">
+      <div class="apply-copy">
+        <span class="eyebrow">GIA NHẬP ĐỘI NGŨ</span>
+        <h2>Sẵn sàng bắt đầu hành trình mới?</h2>
+        <p>Điền thông tin bên cạnh. Bộ phận Nhân sự sẽ liên hệ với bạn khi hồ sơ phù hợp.</p>
+        <div class="contact-box">
+          <p><strong>Phòng Hành chính Nhân sự</strong></p>
+          <p>☎ 0766 156 286</p>
+          <p>✉ tuyendung.vhgroup@gmail.com</p>
+        </div>
+      </div>
+      <form class="apply-form" id="applyForm">
+        <label>Họ và tên<input required name="name" placeholder="Nguyễn Văn A" /></label>
+        <label>Số điện thoại<input required name="phone" inputmode="tel" placeholder="09xx xxx xxx" /></label>
+        <label>Email<input required name="email" type="email" placeholder="email@example.com" /></label>
+        <label>Vị trí ứng tuyển
+          <select required name="position">
+            <option value="">Chọn vị trí</option>
+            <option>Chuyên viên Vận hành Sàn TMĐT</option>
+            <option>Chuyên viên TikTok Ads</option>
+            <option>Nhân viên mua hàng tiếng Trung</option>
+          </select>
+        </label>
+        <label>CV của bạn<input name="cv" type="file" accept=".pdf,.doc,.docx" /></label>
+        <label>Lời nhắn<textarea name="message" rows="4" placeholder="Giới thiệu ngắn về kinh nghiệm của bạn..."></textarea></label>
+        <button class="btn btn-primary submit-btn" type="submit">Gửi hồ sơ ứng tuyển</button>
+        <p class="form-note">Bản demo hiện mở ứng dụng email để gửi thông tin. Khi triển khai chính thức có thể kết nối Google Form, email hoặc hệ thống quản trị ứng viên.</p>
+      </form>
+    </section>
+  </main>
+
   <footer>
-    <div class="footer-brand"><img src="logo.jpeg" alt="Việt Hương Group"><p>Cùng kiến tạo giá trị xanh và bền vững.</p></div>
+    <div class="footer-brand"><img src="assets/logo.jpeg" alt="Việt Hương Group"><p>Cùng kiến tạo giá trị xanh và bền vững.</p></div>
     <div><strong>Liên hệ tuyển dụng</strong><p>0766 156 286</p><p>tuyendung.vhgroup@gmail.com</p></div>
     <div><strong>Website</strong><p>myphamviethuong.vn</p><p>© 2026 Việt Hương Group</p></div>
   </footer>
