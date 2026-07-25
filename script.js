@@ -65,6 +65,36 @@ const jobs = {
       'Nhạy bén với dữ liệu và chịu được áp lực.'
     ],
     salary: 'Lương cứng 10–15 triệu + phụ cấp và chuyên cần.'
+  },
+  
+   'purchasing': {
+    title: 'Nhân viên mua hàng',
+
+    summary:
+      'Phòng Thu mua • Toàn thời gian • Tòa nhà Việt Hương, Thanh Liệt, Hà Nội',
+
+    tasks: [
+      'Theo dõi đơn đặt hàng từ khách hàng, quản lý tồn kho và tính toán số lượng cần đặt.',
+      'Tìm kiếm báo giá, đàm phán với nhà cung cấp và thực hiện đặt hàng sau khi được phê duyệt.',
+      'Theo dõi, thúc đẩy tiến độ đơn hàng, bảo đảm đáp ứng kế hoạch sản xuất.',
+      'Theo dõi chất lượng hàng hóa nhập kho và xử lý các vấn đề về số lượng, chất lượng.',
+      'Tìm kiếm mẫu mã sản phẩm mới và đánh giá nhà cung cấp mới.',
+      'Trao đổi, ký hợp đồng nguyên tắc và hợp đồng kinh tế với nhà cung cấp.',
+      'Theo dõi, đối chiếu công nợ và gửi đề xuất thanh toán hàng tháng.',
+      'Báo cáo và phối hợp xử lý sản phẩm bị hỏng hoặc sai quy cách.'
+    ],
+
+    requirements: [
+      'Tốt nghiệp từ Cao đẳng trở lên.',
+      'Ưu tiên các chuyên ngành hóa, dược, thực phẩm, công nghệ sinh học, kế toán hoặc in ấn.',
+      'Có từ 6 tháng đến 1 năm kinh nghiệm.',
+      'Có khả năng đọc hiểu tiếng Anh hoặc tiếng Trung.',
+      'Có hiểu biết về mua hàng và xuất nhập khẩu.',
+      'Sử dụng được Word, Excel và các công cụ tin học văn phòng.',
+      'Có khả năng giao tiếp, thương lượng và đàm phán tốt.',
+      'Nhanh nhẹn, hoạt bát và có trách nhiệm trong công việc.'
+    ],
+    salary: 'Thu nhập 10–15 triệu đồng + phụ cấp.'
   }
 };
 
