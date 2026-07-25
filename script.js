@@ -67,27 +67,6 @@ const jobs = {
     salary: 'Lương cứng 10–15 triệu + phụ cấp và chuyên cần.'
   }
 };
-const jobs = {
-  purchasing: {
-    title: 'Nhân viên mua hàng',
-    summary: 'Thu mua • Toàn thời gian • Tầng 4, Tòa nhà Việt Hương',
-    tasks: [
-      'Theo dõi đơn đặt hàng từ khách hàng, quản lý tồn kho và tính toán đặt hàng dựa trên yêu cầu của đơn hàng hoặc yêu cầu dự trữ.',
-      'Tìm kiếm báo giá của các nhà cung cấp, đàm phán và thực hiện các bước đặt hàng sau khi đã được phê duyệt.',
-      'Tìm kiếm các mẫu mã sản phẩm mới, tìm kiếm và đánh giá nhà cung cấp mới.',
-      'Thiết lập và tối ưu quảng cáo nội sàn Shopee.',
-      'Theo dõi chỉ số gian hàng, lập báo cáo và đề xuất giải pháp.'
-    ],
-    requirements: [
-      'Tốt nghiệp Đại học chuyên ngành Thương mại điện tử, Marketing hoặc Quản trị kinh doanh.',
-      'Có từ 2 năm kinh nghiệm.',
-      'Am hiểu Shopee và TikTok Shop.',
-      'Chủ động, nhanh nhẹn và chịu được áp lực doanh số.'
-    ],
-    salary: 'Lương cứng 10–15 triệu; tổng thu nhập 10–20 triệu.'
-  },
-
-
 const dialog = document.querySelector('#jobDialog');
 const content = document.querySelector('#dialogContent');
 const closeButton = document.querySelector('.dialog-close');
