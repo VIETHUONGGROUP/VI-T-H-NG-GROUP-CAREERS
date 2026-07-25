@@ -163,6 +163,44 @@ const jobs = {
 
     salary:
       'Thu nhập 10–30 triệu đồng/tháng; lương cứng 8–10 triệu đồng, cộng phụ cấp, chuyên cần và thưởng.'
+  },
+
+   'hr-director': {
+    title: 'Giám đốc Nhân sự (CHRO)',
+
+    summary:
+      'Bộ phận Nhân sự • Toàn thời gian • Tòa nhà Việt Hương Building',
+
+   tasks: [
+      'Xây dựng chiến lược nhân sự ngắn hạn, trung hạn và dài hạn phù hợp với chiến lược kinh doanh.',
+      'Xây dựng mô hình tổ chức phục vụ mục tiêu mở rộng quy mô trên 1.000 nhân sự.',
+      'Thiết kế và tối ưu cơ cấu tổ chức, chức năng và nhiệm vụ của từng phòng ban.',
+      'Chuẩn hóa hệ thống JD, khung năng lực, cấp bậc, chức danh và hệ thống phân quyền.',
+      'Thiết kế hệ thống BSC, KPI và OKRs.',
+      'Xây dựng chính sách lương 3P, cơ chế thưởng và hệ thống đánh giá hiệu suất.',
+      'Kiểm soát ngân sách nhân sự.',
+      'Quản trị lực lượng lao động sản xuất, ca kíp và năng suất lao động.',
+      'Giải quyết tranh chấp lao động và kiểm soát tuân thủ luật lao động.',
+      'Triển khai văn hóa doanh nghiệp và truyền thông nội bộ.',
+      'Thực hiện chuyển đổi số và quản trị dữ liệu nhân sự.',
+      'Làm việc và tham mưu trực tiếp cho Tổng giám đốc và Ban lãnh đạo.'
+   ],
+
+    requirements: [
+      'Tốt nghiệp Đại học trở lên các chuyên ngành Quản trị nhân sự, Luật, Kinh tế hoặc Quản trị kinh doanh.',
+      'Có ít nhất 3–5 năm kinh nghiệm ở vị trí Giám đốc Nhân sự hoặc tương đương.',
+      'Ưu tiên ứng viên có kinh nghiệm trong ngành mỹ phẩm, dược hoặc thực phẩm chức năng.',
+      'Ưu tiên kinh nghiệm tại doanh nghiệp có quy mô nhà máy trên 500 nhân sự.',
+      'Có kinh nghiệm scale tổ chức từ SME lên Tập đoàn, xây dựng hệ thống từ đầu hoặc tái cấu trúc.',
+      'Am hiểu sâu hệ thống KPI, OKRs, BSC, luật lao động và quan hệ lao động.',
+      'Có tư duy chiến lược và business mindset.',
+      'Có kỹ năng lãnh đạo, phát triển đội ngũ và quản trị khủng hoảng nhân sự.',
+      'Có khả năng làm việc với CEO và Hội đồng quản trị.',
+      'Ưu tiên thành thạo tiếng Anh.'
+   ],
+
+    salary:
+      'Thu nhập thỏa thuận theo kinh nghiệm và năng lực; có thưởng ESOP, tháng lương thứ 13 và các chế độ phúc lợi.'
 }
 };
 
