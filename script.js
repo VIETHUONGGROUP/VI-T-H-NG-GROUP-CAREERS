@@ -31,7 +31,7 @@ filters.forEach(btn => {
 const jobs = {
   ecommerce: {
     title: 'Chuyên viên Vận hành Sàn TMĐT',
-    summary: 'Phòng Marketing • Toàn thời gian • Tầng 4, Tòa nhà Việt Hương',
+    summary: 'Phòng Marketing • Toàn thời gian • Tầng 4, Tòa nhà Việt Hương, Tân Triều, Hà Nội',
     tasks: [
       'Xây dựng lộ trình vận hành ngành hàng và chịu trách nhiệm mục tiêu kinh doanh.',
       'Quản lý Seller Center: đăng sản phẩm, cập nhật giá và quản lý tồn kho.',
@@ -50,7 +50,7 @@ const jobs = {
 
   tiktok: {
     title: 'Chuyên viên TikTok Ads',
-    summary: 'Phòng Marketing • Toàn thời gian • Tầng 4, Tòa nhà Việt Hương',
+    summary: 'Phòng Marketing • Toàn thời gian • Tầng 4, Tòa nhà Việt Hương, Tân Triều, Hà Nội',
     tasks: [
       'Thiết lập và quản lý TikTok Business.',
       'Phân bổ ngân sách, A/B testing và tối ưu quảng cáo.',
@@ -71,7 +71,7 @@ const jobs = {
     title: 'Nhân viên mua hàng',
 
     summary:
-      'Phòng Thu mua • Toàn thời gian • Tòa nhà Việt Hương, Thanh Liệt, Hà Nội',
+      'Phòng Thu mua • Toàn thời gian • Tòa nhà Việt Hương, Tân Triều, Hà Nội',
 
     tasks: [
       'Theo dõi đơn đặt hàng từ khách hàng, quản lý tồn kho và tính toán số lượng cần đặt.',
@@ -101,7 +101,7 @@ const jobs = {
     title: 'Trưởng phòng Mua hàng',
 
     summary:
-      'Bộ phận Mua hàng • Toàn thời gian • Tòa nhà Việt Hương',
+      'Bộ phận Mua hàng • Toàn thời gian • Tòa nhà Việt Hương, Tân Triều, Hà Nội',
 
     tasks: [
       'Xây dựng và triển khai chiến lược mua hàng theo kế hoạch sản xuất – kinh doanh.',
@@ -139,7 +139,7 @@ const jobs = {
     title: 'Nhân viên Kinh doanh',
 
     summary:
-      'Phòng Kinh doanh • Toàn thời gian • Tòa nhà Việt Hương, Thanh Liệt, Hà Nội',
+      'Phòng Kinh doanh • Toàn thời gian • Tòa nhà Việt Hương, Tân Triều, Hà Nội',
 
     tasks: [
       'Phát triển và mở rộng hệ thống khách hàng trong nước và quốc tế.',
@@ -169,7 +169,7 @@ const jobs = {
     title: 'Giám đốc Nhân sự (CHRO)',
 
     summary:
-      'Bộ phận Nhân sự • Toàn thời gian • Tòa nhà Việt Hương Building',
+      'Bộ phận Nhân sự • Toàn thời gian • Tòa nhà Việt Hương Building, Tân Triều, Hà Nội',
 
    tasks: [
       'Xây dựng chiến lược nhân sự ngắn hạn, trung hạn và dài hạn phù hợp với chiến lược kinh doanh.',
