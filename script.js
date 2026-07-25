@@ -95,6 +95,44 @@ const jobs = {
       'Nhanh nhẹn, hoạt bát và có trách nhiệm trong công việc.'
     ],
     salary: 'Thu nhập 10–15 triệu đồng + phụ cấp.'
+  },
+
+   'purchasing-manager': {
+    title: 'Trưởng phòng Mua hàng',
+
+    summary:
+      'Bộ phận Mua hàng • Toàn thời gian • Tòa nhà Việt Hương',
+
+    tasks: [
+      'Xây dựng và triển khai chiến lược mua hàng theo kế hoạch sản xuất – kinh doanh.',
+      'Lập kế hoạch mua hàng theo tháng, quý và năm.',
+      'Xây dựng chiến lược sourcing nội địa, nhập khẩu và đa dạng hóa nhà cung cấp.',
+      'Tìm kiếm, đánh giá, lựa chọn và phát triển nhà cung cấp.',
+      'Đàm phán giá, điều khoản hợp đồng và xây dựng KPI đánh giá nhà cung cấp.',
+      'Theo dõi biến động giá thị trường và quản lý ngân sách mua hàng.',
+      'Đề xuất phương án tối ưu chi phí, hạn chế thất thoát và lãng phí.',
+      'Phối hợp với sản xuất, kho và QC/QA để bảo đảm nguyên vật liệu sẵn sàng.',
+      'Kiểm soát thời gian đặt hàng, giao hàng và xử lý thiếu hàng hoặc trễ hàng.',
+      'Quản lý đội ngũ mua hàng, phân công công việc, đào tạo và đánh giá hiệu suất.',
+      'Chuẩn hóa quy trình mua hàng từ đề nghị mua đến thanh toán.',
+      'Báo cáo chi phí, hiệu quả mua hàng và tham mưu cho Ban lãnh đạo.'
+    ],
+
+    requirements: [
+      'Tốt nghiệp Đại học trở lên.',
+      'Có kiến thức về ngành, đối thủ, nhà cung cấp và vật tư hàng hóa.',
+      'Có kiến thức về hải quan và xuất nhập khẩu.',
+      'Có ít nhất 3 năm kinh nghiệm quản lý ở vị trí tương đương.',
+      'Thành thạo các phần mềm văn phòng.',
+      'Thành thạo tiếng Anh hoặc tiếng Trung ở cả bốn kỹ năng.',
+      'Có kỹ năng lập kế hoạch, tổ chức và điều phối.',
+      'Có kỹ năng quản lý, giám sát và ra quyết định.',
+      'Có khả năng đàm phán, giải quyết vấn đề và xử lý khiếu nại.',
+      'Có kỹ năng lãnh đạo, đào tạo và phát triển nhân sự.'
+    ],
+
+    salary:
+      'Thu nhập từ 30–35 triệu đồng, tùy theo kinh nghiệm và năng lực.'
   }
 };
 
