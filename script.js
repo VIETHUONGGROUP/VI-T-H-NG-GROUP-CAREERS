@@ -67,6 +67,7 @@ const jobs = {
     salary: 'Lương cứng 10–15 triệu + phụ cấp và chuyên cần.'
   }
 };
+
 const dialog = document.querySelector('#jobDialog');
 const content = document.querySelector('#dialogContent');
 const closeButton = document.querySelector('.dialog-close');
