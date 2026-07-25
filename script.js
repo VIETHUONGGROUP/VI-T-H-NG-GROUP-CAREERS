@@ -133,7 +133,37 @@ const jobs = {
 
     salary:
       'Thu nhập từ 30–35 triệu đồng, tùy theo kinh nghiệm và năng lực.'
-  }
+  },
+
+   'sales-executive': {
+    title: 'Nhân viên Kinh doanh',
+
+    summary:
+      'Phòng Kinh doanh • Toàn thời gian • Tòa nhà Việt Hương, Thanh Liệt, Hà Nội',
+
+    tasks: [
+      'Phát triển và mở rộng hệ thống khách hàng trong nước và quốc tế.',
+      'Làm việc trực tiếp với chủ doanh nghiệp, đối tác chiến lược và các thương hiệu mỹ phẩm.',
+      'Tư vấn giải pháp sản xuất và gia công mỹ phẩm phù hợp với từng phân khúc thị trường.',
+      'Đồng hành cùng khách hàng trong quá trình xây dựng và mở rộng thương hiệu.',
+      'Thực hiện các công việc theo kế hoạch kinh doanh và yêu cầu của công ty.'
+    ],
+
+    requirements: [
+      'Tốt nghiệp Đại học.',
+      'Phong thái chuyên nghiệp và có khả năng giao tiếp tốt.',
+      'Tư duy chủ động, linh hoạt và có tinh thần trách nhiệm cao.',
+      'Nhanh nhẹn, cầu tiến, trung thực và bền bỉ.',
+      'Thành thạo tin học văn phòng.',
+      'Có khả năng thuyết trình, đào tạo và thuyết phục.',
+      'Có kỹ năng giải quyết vấn đề và chủ động đề xuất giải pháp.',
+      'Có kỹ năng làm việc nhóm tốt.',
+      'Ứng viên mới tốt nghiệp có tố chất sẽ được đào tạo và mentoring 1–1.'
+    ],
+
+    salary:
+      'Thu nhập 10–30 triệu đồng/tháng; lương cứng 8–10 triệu đồng, cộng phụ cấp, chuyên cần và thưởng.'
+}
 };
 
 const dialog = document.querySelector('#jobDialog');
