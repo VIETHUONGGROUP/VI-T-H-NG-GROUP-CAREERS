@@ -146,6 +146,30 @@ if (closeButton && dialog) {
     }
   });
 }
+
+const applyForm = document.querySelector('#applyForm');
+
+if (applyForm) {
+  applyForm.addEventListener('submit', event => {
+    event.preventDefault();
+
+    const data = new FormData(event.target);
+
+    const subject = encodeURIComponent(
+      `Ứng tuyển ${data.get('position')} - ${data.get('name')}`
+    );
+
+    const body = encodeURIComponent(
+      `Họ và tên: ${data.get('name')}
+Số điện thoại: ${data.get('phone')}
+Email: ${data.get('email')}
+Vị trí: ${data.get('position')}
+
+Lời nhắn:
+${data.get('message') || ''}`
+    );
+
+    window.location.href =
       `mailto:tuyendung.vhgroup@gmail.com?subject=${subject}&body=${body}`;
   });
 }
